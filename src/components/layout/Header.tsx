@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { FiSun, FiMoon, FiUser, FiMenu, FiX, FiHome, FiMail, FiDollar, FiPackage, FiFileText, FiGithub, FiTwitter, FiInstagram, FiChevronDown, FiChevronRight, FiPhone } from 'react-icons/fi';
-import { FaTiktok, FaFacebook, FaWhatsapp } from "react-icons/fa";
+import { FiSun, FiMoon, FiUser, FiMenu, FiX, FiHome, FiMail, FiPackage, FiFileText, FiGithub, FiTwitter, FiInstagram, FiChevronDown, FiChevronRight, FiPhone } from 'react-icons/fi';
+import { FaTiktok, FaFacebook, FaWhatsapp, FaDollarSign } from "react-icons/fa";
 import { useTheme } from '@/contexts/ThemeContext';
 import { useAuth } from '@/contexts/AuthContext';
 import { logout } from '@/services/auth';
@@ -61,7 +61,7 @@ const navLinks: NavLink[] = [
   { 
     name: 'Pricing',
     path: '/pricing',
-    icon: FiDollar
+    icon: FaDollarSign
   },
   { 
     name: 'Contact', 
