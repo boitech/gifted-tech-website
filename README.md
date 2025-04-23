@@ -14,8 +14,8 @@
 - **Dark/Light Mode**: Toggle between color schemes
 - **Animated Components**: Smooth transitions and effects
 - **Interactive Blog**: With syntax-highlighted code snippets
-- **Project Showcase**: Detailed case studies
-- **Skills Visualization**: Interactive skill meters
+- **Projects Showcase**: Detailed case studies
+- **Services Visualization**: Interactive skill meters
 - **Contact Form**: Easy way to get in touch
 
 ## 🛠 Technologies Used
