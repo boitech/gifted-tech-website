@@ -84,6 +84,18 @@ const Pricing = () => {
                   "Autoblue...etc",
                 ],
                 technologies: ["Javascript", "BaileysApi", "Node.js", "MongoDB", "Express"]
+              },
+                {
+                name: "Telegram Bot",
+                price: "Ksh. 150 - Ksh 300/3months",
+                features: [
+                  "Custom Commands",
+                  "Single Platform",
+                  "Group Management",
+                  "Channel Management",
+                  "Social Media Downloaders...etc"
+                ],
+                technologies: ["Javascript", "TelegramApi", "Node.js", "MongoDB", "Express"]
               }
             ],
             range: "Ksh 150 - Ksh 1000"
