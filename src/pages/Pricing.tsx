@@ -62,11 +62,11 @@ const Pricing = () => {
             range: "Ksh 5,000 - Ksh 100,000"
           },
           {
-            title: "Bot Development",
+            title: "Bot Services",
             tiers: [
               {
                 name: "Whatsapp Bot",
-                price: "Ksh. 150 - Ksh 300",
+                price: "Ksh. 150 - Ksh 300/3months",
                 features: [
                   "User Commands",
                   "Quick Responses",
@@ -86,7 +86,7 @@ const Pricing = () => {
                 technologies: ["Javascript", "BaileysApi", "Node.js", "MongoDB", "Express"]
               }
             ],
-            range: "Ksh 150 - Ksh 300/3months"
+            range: "Ksh 150 - Ksh 1000"
           },
           {
             title: "App Designing",
